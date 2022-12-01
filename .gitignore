@@ -1,0 +1,4 @@
+**/venv
+.vscode
+uploads
+_pycache_
